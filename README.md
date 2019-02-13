@@ -1,2 +1,5 @@
-# rl-workshop
-Reinforcement Learning Workshop
+# Reinforcement Learning Workshop
+## Prerequisites
+```
+
+```
